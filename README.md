@@ -1,4 +1,4 @@
-# onl_store
+# vue-board
 
 ## Project setup
 ```
